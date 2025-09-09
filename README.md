@@ -3,7 +3,7 @@
 # Hi, I’m Hannah 👋  
 
 Business Analyst with a unique combination of technical skills and client communication.  
-I bridge business and technology through data, analytics, and a bit of sarcasm.  
+ I bridge business and technology through data, analytics, and a pinch of sarcasm.
 
 ---
 
