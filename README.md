@@ -5,8 +5,6 @@
 Business Analyst with a unique combination of technical skills and client communication.  
 I bridge business and technology through data, analytics, and a pinch of sarcasm.
 
-✨ I debug queries faster than I paddle out
-
 ---
 
 ## Projects
@@ -27,3 +25,7 @@ Exploratory Data Analysis of unused items.
 - Jupyter Notebook  
 
 ---
+
+> *(Untranslatable Russian joke)*  
+> Встречаются как-то два папоротника в непригодных для размножения условиях,  
+> и один говорит другому: «Да, тут не поспоришь!».
