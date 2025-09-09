@@ -5,7 +5,8 @@
 Business Analyst with a unique combination of technical skills and client communication.  
 I bridge business and technology through data, analytics, and a pinch of sarcasm.
 
-#### I debug queries faster than I paddle out
+✨ I debug queries faster than I paddle out
+
 ---
 
 ## Projects
