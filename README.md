@@ -1,8 +1,21 @@
 # Data-Analytics
 
-# Hi, I’m Anna Khanova 👋
+# Hi, I’m Hannah 👋  
 
 Business Analyst with a unique combination of technical skills and client communication.  
-Here I share projects in **data analytics, SEO strategy, and AI experiments**.  
+I bridge business and technology through data, analytics, and a bit of sarcasm.  
 
-**Tech:** Python · SQL · Pandas · Matplotlib · JSON-LD · Google Search Console
+---
+
+## 📂 Projects  
+- 🎓 **Learning Projects** → case studies and tasks from Yandex courses (Python, SQL, ML basics)  
+- 📊 **SEO Analytics** → data reports, CTR analysis, and structured data experiments  
+
+---
+
+## 🛠 Tech  
+Python · SQL
+
+---
+
+✨ # I fix broken queries faster than I find a wave worth paddling for.*  
