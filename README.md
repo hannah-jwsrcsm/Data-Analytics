@@ -10,10 +10,10 @@ I bridge business and technology through data, analytics, and a pinch of sarcasm
 ## Projects
 
 ### 🛍️ Unused Things App
-Exploratory Data Analysis of unused items.  
-- **Goal:** identify patterns in data and visualize key metrics.  
-- **Methods:** data cleaning, aggregation, hypothesis checking.  
-- **Tools:** Python, Pandas, Matplotlib.  
+Comprehensive product analytics project.  
+- **Focus:** user behavior, retention, and cohort analysis.  
+- **Methods:** data preprocessing, funnel analysis, unit economics.  
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.  
 - [View notebook](unused_things_app.ipynb)
 
 ### 📦 Online Store Analytics  
