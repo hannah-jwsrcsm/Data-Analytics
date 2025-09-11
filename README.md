@@ -20,8 +20,8 @@ Comprehensive product analytics project.
 Analysis of user logs from a large e-commerce app.  
 - **Focus:** event funnel (Main → Product → Cart → Payment), DAU, conversion.  
 - **Tests:** A/A and A/B experiments, Z-test, Bonferroni correction.  
-- **Tools:** Python, Pandas, Seaborn, SciPy.  
-[View notebook](online_store_stat.ipynb)
+- **Tools:** Python, Pandas, Seaborn, SciPy.
+-  [View notebook](online_store_stat.ipynb)
 
 ### 🎮 Video Games Store Analytics  
 
