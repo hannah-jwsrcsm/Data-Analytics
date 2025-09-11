@@ -31,6 +31,13 @@ Analysis of video game sales and user ratings dataset.
 - **Tests:** hypotheses on differences in mean user ratings (t-test, Mann–Whitney), correlation analysis.  
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 - [View notebook](videogames_store.ipynb)
+
+- ### 📱 Procrastinate Pro+ App Analytics
+Analysis of user behavior data from the entertainment app *Procrastinate Pro+*.  
+- **Focus:** funnel analysis (main events → offers → subscriptions → payments), retention, conversion.  
+- **Tests:** A/B experiments, statistical significance testing, multiple comparison correction.  
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
+- [View notebook](entertaiment_app.ipynb)
 ---
 
 ## ⚙️ Technologies
