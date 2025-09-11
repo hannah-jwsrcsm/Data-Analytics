@@ -49,6 +49,15 @@ Analysis of users and trips from the GoFast scooter rental service.
 - **Tests:** statistical hypotheses on trip time, distance, and monthly revenue (t-tests).  
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 - [View notebook](rental_service.ipynb)
+
+### 🏙️ Real Estate Analytics  
+
+Analysis of apartment sale listings from Yandex.Realty in Saint Petersburg and nearby localities.  
+
+- **Focus:** price factors (area, rooms, ceiling height, floor, distance to center/parks), anomalies, fraud detection.  
+- **Tests:** correlation analysis, outlier detection, data cleaning.  
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
+- [View notebook](real_estate.ipynb)  
 ---
 
 ## ⚙️ Technologies
