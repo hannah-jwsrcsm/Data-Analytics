@@ -40,6 +40,15 @@ Analysis of user behavior and marketing performance for the entertainment app Pr
 - **Tests:** LTV, CAC, ROI analysis, cohort analysis, retention and conversion heatmaps.  
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 - [View notebook](entertaiment_app.ipynb)
+
+### 🛴 GoFast Scooter Rental Analytics  
+
+Analysis of users and trips from the GoFast scooter rental service.  
+
+- **Focus:** user profiles (cities, age, subscription type), trip duration and distance, revenue.  
+- **Tests:** statistical hypotheses on trip time, distance, and monthly revenue (t-tests).  
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
+- [View notebook](gofast_scooter.ipynb)
 ---
 
 ## ⚙️ Technologies
