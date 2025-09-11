@@ -23,7 +23,7 @@ Analysis of user logs from a large e-commerce app.
 - **Tools:** Python, Pandas, Seaborn, SciPy.  
 [View notebook](online_store_stat.ipynb)
 
-🎮 Video Games Store Analytics  
+### 🎮 Video Games Store Analytics  
 
 Analysis of video game sales and user ratings dataset.  
 
