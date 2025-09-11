@@ -30,7 +30,7 @@ Analysis of video game sales and user ratings dataset.
 - **Focus:** sales dynamics by platform and region, user vs critic ratings, genre popularity.  
 - **Tests:** hypotheses on differences in mean user ratings (t-test, Mann–Whitney), correlation analysis.  
 - **Tools:** Python, Pandas, Matplotlib, Seaborn, SciPy.
-[View notebook](videogames_store.ipynb)
+- [View notebook](videogames_store.ipynb)
 ---
 
 ## ⚙️ Technologies
